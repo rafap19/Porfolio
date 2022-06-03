@@ -55,7 +55,7 @@ a,a:hover{
 }
 
 .rafa-1{
-    background-image: url('/img/background.jpg');
+    background-image: url('../../assets/img/background.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
